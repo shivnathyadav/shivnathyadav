@@ -1,5 +1,3 @@
-<h1 align="center"><img style="width:100%;" src="https://github.com/shivnathyadav/shivnathyadav/blob/main/banner.jpg" width="100%" /></h1>
-
 <h1 align="center">Hi 👋, I'm Shiv Nath Yadav</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
